@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1.Answer>(a) I have learnt the very basics of "Hyper tText Markup Language". 
+	 (b) Came to know about the grammar for html.
+	 (c) came across the coreTree structure in html.
+	 (d) Learnt about adding images from other websites as well as from my own computer to the webpage.
+	 (e) I have also come to know how to include hyperlinks in the html document.
+
+2.Answer> Everything covered in the course so far (upto lesson 4) have been very easy for me as I have prior knowledge of programming in Java and Python.
+
+3.Answer> Nothing has seemed very difficult for me so far in the course(upto lesson 4).
+
+4.Answer> 1.During this project the entire task was divided into several subtasks. Else It would have been very problematic to configure the entire problem. This is a very good startegy that I implemented and became successful. 
+
+	  2. While working in this project I had to take help from the Mozilla Developer Network.That is a very useful and helpful website that I did use throughout this course so far to overcome all the challenges.
+	  
+	  3. Also the structure of the main code that was written in the project file was the base fle that helped me a lot to write and debug all my previous codes that wrote in the IDE offline.
